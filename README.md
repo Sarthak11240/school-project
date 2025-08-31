@@ -23,7 +23,6 @@ Two pages:
 3. Open:
    - Add: http://localhost:3000/addSchool
    - Show: http://localhost:3000/showSchools
-   - API test: http://localhost:3000/api/getSchools
 
 ## MySQL Credentials
 Configured in API routes:
