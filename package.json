@@ -1,0 +1,20 @@
+{
+  "name": "school-project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "echo \"No linter configured\""
+  },
+  "dependencies": {
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.9.7",
+    "next": "14.2.5",
+    "next-connect": "^0.12.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.53.0"
+  }
+}
