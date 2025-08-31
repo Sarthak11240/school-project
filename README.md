@@ -28,7 +28,7 @@ Two pages:
 ## MySQL Credentials
 Configured in API routes:
 - user: `root`
-- password: `sart@26102002`
+- password: ``
 - host: `localhost`
 - database: `schoolDB`
 
